@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <ApiUrl></ApiUrl>
+  <Item>
+    <Type>Export</Type>
+    <Description>Export</Description>
+    <Destination></Destination>
+    <Format>XML</Format>
+    <Serial>xxxxxxx-xxxx</Serial>
+  </Item>
+  <Item>
+    <Type>Import</Type>
+    <Description>Import</Description>
+    <Source>c:\integrator\ToBF</Source>
+    <Succeeded>c:\integratior\Archive</Succeeded>
+    <Failed>c:\integrator\failed</Failed>
+    <Format>XML</Format>
+    <Serial>xxxxx-xxxx</Serial>
+  </Item>
+</Configuration>

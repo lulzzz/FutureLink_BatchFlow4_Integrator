@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConfigurationInfo>
+  <ApiUrl>http://localhost:52743</ApiUrl>
+  <Item>
+    <Type>Export</Type>
+    <Description>Export</Description>
+    <Destination>C:\integrator\FromBf</Destination>
+    <Format>XML</Format>
+    <Serial>66666666-6666</Serial>
+  </Item>
+  <Item>
+    <Type>Import</Type>
+    <Description>Import</Description>
+    <Source>C:\integrator\ToBf\source</Source>
+    <Succeeded>C:\integrator\ToBf\success</Succeeded>
+    <Failed>C:\integrator\ToBf\fail</Failed>
+    <Format>XML</Format>
+    <Serial>66666666-6666</Serial>
+  </Item>
+</ConfigurationInfo>
